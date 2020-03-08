@@ -29,7 +29,7 @@ const StripeCheckoutButton = ({ price }) => {
   return (
     <StripeCheckout
       label="Pay Now"
-      name="TBT SHOP"
+      name="TBT Shop"
       billingAddress
       shippingAddress
       alipay
