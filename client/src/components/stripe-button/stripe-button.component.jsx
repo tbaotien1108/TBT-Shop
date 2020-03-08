@@ -29,7 +29,7 @@ const StripeCheckoutButton = ({ price }) => {
   return (
     <StripeCheckout
       label="Pay Now"
-      name="Crown Clothing Co."
+      name="TBT SHOP"
       billingAddress
       shippingAddress
       alipay
